@@ -1,7 +1,7 @@
 let stockProductos = [
   {
     id: 1,
-    nombre: "zapatillas de moda",
+    nombre: "Borcegos",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -11,7 +11,7 @@ let stockProductos = [
   },
   {
     id: 2,
-    nombre: "zapatillas de moda",
+    nombre: "Jordan Panda",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -21,7 +21,7 @@ let stockProductos = [
   },
   {
     id: 3,
-    nombre: "zapatillas de moda",
+    nombre: "Zapatillas deportivas Mujer",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -31,7 +31,7 @@ let stockProductos = [
   },
   {
     id: 4,
-    nombre: "zapatillas de moda",
+    nombre: "Borcegos de Trabajo",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -41,7 +41,7 @@ let stockProductos = [
   },
   {
     id: 5,
-    nombre: "zapatillas de moda",
+    nombre: "Zapatillas deportivas Unisex",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -51,7 +51,7 @@ let stockProductos = [
   },
   {
     id: 6,
-    nombre: "zapatillas de moda",
+    nombre: "Zapatos de Vestir para Hombre",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -61,7 +61,7 @@ let stockProductos = [
   },
   {
     id: 7,
-    nombre: "zapatillas de moda",
+    nombre: "Zapatillas Unisex",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
@@ -71,7 +71,7 @@ let stockProductos = [
   },
   {
     id: 8,
-    nombre: "zapatillas de moda",
+    nombre: "Zapatillas New Balance",
     tipo: "Indumentaria",
     cantidad: 1,
     desc: "Las mejores zapatillas del mercado online",
